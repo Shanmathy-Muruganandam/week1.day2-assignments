@@ -4,7 +4,7 @@ public class PrimeNumber {
 	
 	public static void main(String[] args) {
 		
-		int input = 26;
+		int input = 13;
 		System.out.println("Input value: "+input);
 		boolean flag = false;
 		for(int i=2; i<=input/2; i++) {
